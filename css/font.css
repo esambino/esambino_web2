@@ -1,0 +1,126 @@
+﻿@charset "UTF-8";
+
+@font-face {
+    font-family: 'frutiger_lt_45_lightregular';
+    src: url('../font/frutigerlt-light-webfont.eot');
+    src: url('../font/frutigerlt-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/frutigerlt-light-webfont.woff') format('woff'),
+         url('../font/frutigerlt-light-webfont.ttf') format('truetype'),
+         url('../font/frutigerlt-light-webfont.svg#frutiger_lt_45_lightregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'helvetica_lt_stdlight';
+    src: url('../font/helveticaltstd-light-webfont.eot');
+    src: url('../font/helveticaltstd-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/helveticaltstd-light-webfont.woff') format('woff'),
+         url('../font/helveticaltstd-light-webfont.ttf') format('truetype'),
+         url('../font/helveticaltstd-light-webfont.svg#helvetica_lt_stdlight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+  font-family: 'helvetica_neue_lt_std55_roman';
+  src: url("../font/helveticaneueltstd-roman-webfont.eot");
+  src: url("../font/helveticaneueltstd-roman-webfont.eot?#iefix") format("embedded-opentype"), 
+        url("../font/helveticaneueltstd-roman-webfont.woff") format("woff"), 
+        url("../font/helveticaneueltstd-roman-webfont.ttf") format("truetype"), 
+        url("../font/helveticaneueltstd-roman-webfont.svg#helvetica_neue_lt_std55_roman") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'helvetica_neue_lt_st25ultraLt';
+  src: url("../font/helveticaneueltstd-ultlt-webfont.eot");
+  src: url("../font/helveticaneueltstd-ultlt-webfont.eot?#iefix") format("embedded-opentype"), 
+        url("../font/helveticaneueltstd-ultlt-webfont.woff") format("woff"), 
+        url("../font/helveticaneueltstd-ultlt-webfont.ttf") format("truetype"), 
+        url("../font/helveticaneueltstd-ultlt-webfont.svg#helvetica_neue_lt_st25ultraLt") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+    font-family: 'bebas_neueregular';
+    src: url('../font/bebasneue-webfont.eot');
+    src: url('../font/bebasneue-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/bebasneue-webfont.woff') format('woff'),
+         url('../font/bebasneue-webfont.ttf') format('truetype'),
+         url('../font/bebasneue-webfont.svg#bebas_neueregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'lobster_twobold';
+    src: url('../font/lobstertwo-bold-webfont.eot');
+    src: url('../font/lobstertwo-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/lobstertwo-bold-webfont.woff') format('woff'),
+         url('../font/lobstertwo-bold-webfont.ttf') format('truetype'),
+         url('../font/lobstertwo-bold-webfont.svg#lobster_twobold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'lobster_twobold_italic';
+    src: url('../font/lobstertwo-bolditalic-webfont.eot');
+    src: url('../font/lobstertwo-bolditalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/lobstertwo-bolditalic-webfont.woff') format('woff'),
+         url('../font/lobstertwo-bolditalic-webfont.ttf') format('truetype'),
+         url('../font/lobstertwo-bolditalic-webfont.svg#lobster_twobold_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'lobster_twoitalic';
+    src: url('../font/lobstertwo-italic-webfont.eot');
+    src: url('../font/lobstertwo-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/lobstertwo-italic-webfont.woff') format('woff'),
+         url('../font/lobstertwo-italic-webfont.ttf') format('truetype'),
+         url('../font/lobstertwo-italic-webfont.svg#lobster_twoitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'lobster_tworegular';
+    src: url('../font/lobstertwo-regular-webfont.eot');
+    src: url('../font/lobstertwo-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/lobstertwo-regular-webfont.woff') format('woff'),
+         url('../font/lobstertwo-regular-webfont.ttf') format('truetype'),
+         url('../font/lobstertwo-regular-webfont.svg#lobster_tworegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url(http://themes.googleusercontent.com/static/fonts/opensans/v7/cJZKeOuBrn4kERxqtaUH3T8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Open Sans Semibold'), local('OpenSans-Semibold'), url(http://themes.googleusercontent.com/static/fonts/opensans/v7/MTP_ySUJH_bn48VBG8sNSnhCUOGz7vYGh680lGh-uXM.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(http://themes.googleusercontent.com/static/fonts/opensans/v7/k3k702ZOKiLJc3WVjuplzHhCUOGz7vYGh680lGh-uXM.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Open Sans Italic'), local('OpenSans-Italic'), url(http://themes.googleusercontent.com/static/fonts/opensans/v7/xjAJXh38I15wypJXxuGMBobN6UDyHWBl620a-IRfuBk.woff) format('woff');
+}
